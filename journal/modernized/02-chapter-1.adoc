@@ -715,8 +715,8 @@ and were to continue forever in these poor frail tabernacles of clay.
 "`I am so sensible of my own imperfections and weaknesses,
 that I think myself unfit to communicate advice or strength to others;
 though I have experienced the sentiment of the wise Solomon fulfilled many times, namely,
-'`There is one who withholds more than is right,
-but it leads to poverty.`' Yet I believe it is possible, and think I have seen it,
+'`There is one who withholds more than is right,
+but it leads to poverty.`' Yet I believe it is possible, and think I have seen it,
 to give that to others which is designed as food for ourselves;
 which has made me sometimes more backward than has been profitable.
 But I desire to attain to a state of stability, wherein I may see my duty clearly,
@@ -2656,7 +2656,7 @@ informed him of our being here, and desired that we might be restored to our fam
 he replied that the council would meet and consider our case.
 
 "`Second-day; council met, and after spending some hours, came to the following result,
-which was delivered to us: '`
+which was delivered to us:
 
 [.embedded-content-document.court-order]
 --
