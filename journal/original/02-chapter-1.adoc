@@ -2656,7 +2656,7 @@ he replied that the council would meet and consider our case.
 "`Second-day; council met, and after spending some hours, came to the following result,
 which was delivered to us:
 
-[.embedded-content-document.court-order]
+[.embedded-content-document.legal]
 --
 
 [.signed-section-context-open]
