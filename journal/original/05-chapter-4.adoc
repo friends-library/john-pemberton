@@ -644,14 +644,15 @@ I visited also our interpreter, and my mind was opened to impart counsel to his 
 about eighteen years of age, which appeared to have place in her mind.
 This evening we were visited by Martin and bis brother Dr. Klucker, a solid man,
 head master of the Latin school in this place, and learned in several languages.
-We gave him B. Holmes`'s '`Serious Call,`' in Latin, and the '`Short Account,`' in French,
-and found that he possessed Barclay`'s Apology, in German.
+We gave him B. Holmes`'s [.book-title]#Serious Call,#
+in Latin, and the [.book-title]#Short Account,# in French,
+and found that he possessed Barclay`'s [.book-title]#Apology,# in German.
 These opportunities revived my drooping mind,
 and gave hopes that our stay is in Divine appointment, however proving to ourselves.
 
 "`First-day; this morning I had a request from the abbess of the nunnery,
 to pay her a visit, and two o`'clock was appointed.
-I went with an awe over my mind, not knowing what might he the issue; however,
+I went with an awe over my mind, not knowing what might be the issue; however,
 we were received by her with solidity and respect,
 and we spent nearly an hour acceptably with her.
 She acknowledged the truth and propriety of sundry observations made,
