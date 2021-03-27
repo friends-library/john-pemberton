@@ -1,4 +1,4 @@
-[#testimony-phila.style-blurb, short="Testimony of Philadelphia Monthly Meeting"]
+[.style-blurb, short="Testimony of Philadelphia Monthly Meeting"]
 == Testimony of the monthly meeting of Philadelphia, concerning John Pemberton.
 
 He was the son of our valuable and much esteemed friends, Israel and Rachel Pemberton.

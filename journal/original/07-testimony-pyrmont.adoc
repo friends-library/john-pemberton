@@ -1,4 +1,4 @@
-[#testimony-pyrmont.style-blurb, short="Testimony of Pyrmont Friends"]
+[.style-blurb, short="Testimony of Pyrmont Friends"]
 == Testimony of the monthly meeting of Friends at Pyrmont, in Westphalia, Germany, concerning John Pemberton, of Philadelphia, in North America.
 
 Seeing it is recorded in Holy Writ, and confirmed by experience,
