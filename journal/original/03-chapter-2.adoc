@@ -566,7 +566,7 @@ in much unity, in visiting the seed there.
 
 "`First-day, third month 30th; At meeting at Norwich,
 I had to remark to Friends my concern of mind,
-at their negligence respecting the time appointed forgathering;
+at their negligence respecting the time appointed for gathering;
 meetings being often much hurt by the late coming of many who live at a distance,
 and do not leave home until the time they should be at meeting.
 
@@ -904,7 +904,7 @@ proceeds.
 Little was said in this meeting, except some remarks I had to make;
 and then we proceeded upon the concerns of the church, which business was conducted well.
 This day I received a number of letters from my dear friends in America,
-which came by my dear friend Nicholas Wain, lately arrived at London,
+which came by my dear friend Nicholas Waln, lately arrived at London,
 on a religious visit to Friends in Great Britain.
 I have great cause to be humbly thankful,
 that the Lord is moving upon the minds of my friends thus to salute me,
@@ -1174,7 +1174,9 @@ In this humbled state I went to the session-house,
 to which many well looking people came, and appeared satisfied with what was delivered.
 I went to visit the prisoners confined in the jail, which they took kindly;
 and we distributed several small tracts relative to our religious principles.
-We reached Boyle to lodge, "`Sixth-day, setting out early,
+We reached Boyle to lodge.
+
+"`Sixth-day, setting out early,
 we reached Ballymurry about the third hour; but I was very heavy and distressed,
 which I kept much to myself.
 In the evening, Mary Ridgway and Jane Watson on a religious visit,
