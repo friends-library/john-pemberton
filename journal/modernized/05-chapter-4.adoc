@@ -558,7 +558,7 @@ the man having more sensibility respecting religious matters than I expected,
 and a niece was tender.
 
 They expressed gladness at our freedom, and many desires for our preservation.
-We gave him William Penn`'s '`Rise and Progress`' and the '`Tender
+We gave him William Penn`'s [.book-title]#Rise and Progress# and the '`Tender
 Counsel,`' and left some pieces also at other places.
 The reception we met with, and the labour which opened,
 showed the propriety of our having stayed here;
@@ -571,7 +571,7 @@ I had to remark to him, that as I understood he was a man of parts and learning,
 I wished him not to lean upon them,
 but to seek to be endued with the wisdom that comes from heaven, which is pure.
 He acknowledged the propriety of the remarks,
-and we left with him William Penn`'s '`Rise and Progress,`' in German.
+and we left with him William Penn`'s [.book-title]#Rise and Progress,# in German.
 
 "`We visited J. Wilremar, a young minister; my mind was covered with gospel love,
 and I made many remarks to him respecting the ministry,
@@ -591,9 +591,9 @@ so that I was often weary of him, but knew not how to do well without him.
 
 "`Third-day, we set out for Osnaburg soon after five o`'clock,
 travelled about three miles an hour, and arrived in the evening,
-having spent about an hour at a town called Western I Capteln,
+having spent about an hour at a town called Western Capteln,
 where we found one person who could speak English, with whom we had some conversation,
-and left a copy of the '`Tender Counsel.`'
+and left a copy of the _Tender Counsel._
 
 "`Fourth-day I spent under much exercise of mind.
 We made diligent inquiry,
@@ -1189,8 +1189,8 @@ and drinking to excess, threatened to turn him out if he did so.
 An aged woman therefore spread the notice, but met with abuse from some,
 who spat in her face; and an envious magistrate spread terror among the people.
 He would not be reasoned with,
-nor would he receive William Penn`'s '`Rise and Progress,`' which was offered to him;
-but threatened me with the Stadt-house,
+nor would he receive William Penn`'s [.book-title]#Rise and Progress,#
+which was offered to him; but threatened me with the Stadt-house,
 until the Prince de la Lippe`'s mind should be known and said we deserved to be taken up,
 for walking the streets and spreading our principles.
 He afterwards sent to tell me that he fined me five dollars, and forbade the meeting.
@@ -1292,9 +1292,10 @@ John Pemberton says: "`A Friend in England makes this remark:
 '`What advantages in the view of thoughtful parents,
 can possibly compensate for the exposure of their children to the
 dangers which surround them in these tours for improvement?`"
-And he adds his own belief that, "`nine out of ten become vitiated,
-and deny their religious education, "`30th; Still at Pyrmont, and very tender,
-having been slow in recovering,
+And he adds his own belief that,
+"`nine out of ten become vitiated, and deny their religious education.`"
+
+30th; Still at Pyrmont, and very tender, having been slow in recovering,
 yet have attended all their meetings as they came in course, except two; and this day,
 appointed a public meeting, which was large and solid,
 and rendered satisfactory through the goodness of a gracious God.
@@ -1304,7 +1305,7 @@ This afternoon was a public meeting, and I laboured according to ability given;
 but the people are superficial, and know little of vital Christianity, resting in a form,
 and depending on the priests, outward ceremonies, and will-worship.
 
-"`18th,`" This afternoon the chief magistrate visited us,
+"`18th; This afternoon the chief magistrate visited us,
 and spent about four hours with us.
 He is a worldly-wise, and eloquent man.
 Much conversation passed respecting gospel ministry; and although,
